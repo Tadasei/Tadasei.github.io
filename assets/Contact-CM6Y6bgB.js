@@ -1,1 +1,0 @@
-import{f as t,w as e,u as a,o as c,n,z as o}from"./index-CB5YdKfY.js";const u={__name:"Contact",setup(r){return(s,_)=>(c(),t(a(o),{class:"container mx-auto text-center"},{content:e(()=>[n("Contact")]),_:1}))}};export{u as default};
