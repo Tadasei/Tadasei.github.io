@@ -1,1 +1,0 @@
-import{g as e,M as a,u as o,U as n,o as r,P as s}from"./index-THxS1kFH.js";const _={__name:"Contact",setup(c){return(p,t)=>(r(),e(o(n),{class:"container mx-auto text-center"},{content:a(()=>t[0]||(t[0]=[s("Contact")])),_:1}))}};export{_ as default};
